@@ -1,0 +1,7 @@
+/TERMUX_My_APP/node_modules
+/TERMUX_My_APP/.expo
+/TERMUX_My_APP/.yarn
+/TERMUX_My_APP/.vscode
+t5_nmap_model
+t5_nmap_tokenizer
+Backend/node_modules
